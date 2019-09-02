@@ -1,7 +1,5 @@
 # Hundred Line Project
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 # Information
 This is a basic app that will allow you to see the price history within the last 10 hours of popular cryptocurrencies.
 
